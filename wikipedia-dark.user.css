@@ -12,7 +12,7 @@
 
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document domain('wikipedia.org'), domain("wikimedia.org"), domain("wiktionary.org"), domain("wikibooks.org"), domain("wikinews.org"), domain("wikisource.org"), domain("wikivoyage.org") {
+@-moz-document domain('wikipedia.org'), domain('m.wikipedia.org'), domain("wikimedia.org"), domain("wiktionary.org"), domain("wikibooks.org"), domain("wikinews.org"), domain("wikisource.org"), domain("wikivoyage.org") {
 
     body {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
